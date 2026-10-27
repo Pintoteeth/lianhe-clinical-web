@@ -1,0 +1,32 @@
+{
+  "id": "/lianhe-clinical-mobile",
+  "name": "联颌医疗·咬合重建多维诊疗评估系统",
+  "short_name": "联颌评估",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#f6f8fc",
+  "description": "咬合重建初诊、TMJ风险快筛和GCPS慢性疼痛量表，支持手机平板本机记录、PDF与离线使用。",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
